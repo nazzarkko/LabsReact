@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.AircraftButton{
+    width: 218px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: #A6823E;
+    border: #A6823E;
+    margin: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+#DeleteButton{
+    max-width: 60%;
+    max-height: 9%;
+    background-color: orangered;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
