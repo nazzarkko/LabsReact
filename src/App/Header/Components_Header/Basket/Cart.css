@@ -1,0 +1,43 @@
+.Cart_header{
+    justify-content: center;
+    text-align: center;
+}
+.TotalPrice{
+    color: #303030;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 49px;
+    text-align: right;
+    padding-right: 80px;
+}
+.QuantityContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.QuantityChanger {
+    padding: 5px;
+    max-height: 30px;
+    max-width: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Quantity {
+    display: flex;
+    
+}
+#addToCart{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+#cartPrice{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+#checkout{
+    justify-content: center;
+    text-align: right;
+    padding-right: 60px;
+}

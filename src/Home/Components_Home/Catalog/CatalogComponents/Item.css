@@ -1,0 +1,38 @@
+.Item{
+    width: 300px;
+    height: 500px;
+    border: 2px dashed #4A4A4A;
+    border-radius: 5px;         
+    padding: 10px;              
+    background-color: #EFEFEF; 
+    box-shadow: 3px 3px 8px rgba(0,0,0,0.2);
+    margin: 20px;
+    text-decoration: none;
+    list-style: none;
+
+}
+.Price{
+    color:#A6823E;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 20px;
+}
+.Model{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 20px;
+}
+.AircraftImage{
+
+    max-width: 278px; 
+    max-height: 278px; 
+    display: block; 
+
+}
